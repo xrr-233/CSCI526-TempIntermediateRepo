@@ -8,3 +8,8 @@ This project uses assets from Unity Creative Core. These assets are provided for
 
 - Shader: [https://xrr-233.github.io/CSCI526-TempIntermediateRepo/Games/Section1AdvancedSequenceShader](https://xrr-233.github.io/CSCI526-TempIntermediateRepo/Games/Section1AdvancedSequenceShader)
 - Animation: [https://xrr-233.github.io/CSCI526-TempIntermediateRepo/Games/Section1AdvancedSequenceAnimation](https://xrr-233.github.io/CSCI526-TempIntermediateRepo/Games/Section1AdvancedSequenceAnimation)
+
+## Scene Description
+
+- [Shader](./Codes/Section1AdvancedSequenceShader/description.md)
+- [Animation](./Codes/Section1AdvancedSequenceAnimation/description.md)
